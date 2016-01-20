@@ -4,4 +4,6 @@
 ###
 ##### Only repo'd the scripting - Ressources were ripped from the game :(
 screenshots:
-![alt tag](screens/home.jpg)
+![home](screens/home.png)
+![battle](screens/battle.png)
+![warpzone](screens/warpzone.png)
