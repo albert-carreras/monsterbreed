@@ -4,4 +4,4 @@
 ###
 ##### Only repo'd the scripting - Ressources were ripped from the game :(
 screenshots:
-![alt tag](https://github.com/albcarreras/monsterbreed/tree/master/screens/home.jpg)
+![alt tag](https://raw.github.com/albcarreras/monsterbreed/tree/master/screens/home.jpg)
