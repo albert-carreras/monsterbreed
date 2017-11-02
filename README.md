@@ -1,4 +1,4 @@
-# monsterbreed
+# Monsterbreed
 ## First game I made in Unity
 
 ###
